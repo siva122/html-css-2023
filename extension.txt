@@ -1,0 +1,29 @@
+1- Live Server
+If you are working client side project, then the Live Server Extension is very important to you. You can use that and display code output on the browser without refreshing a page.
+
+2-Auto Rename Tag 
+When you will change the starting that auto than the closing tag is automatically closed with the help of Auto Rename Tag, So you should try it.
+
+03- IntelliSense for CSS 
+That extension used to display the hint of CSS and also you can use Bootstrap than it will display the hint of classes inside the dropdown menu.
+
+4- Prettier - Code formatter
+Prettier Code Formatter which used to format the code on your editor. You can easily checkout the starting and closing project codes.
+
+05- Color Highlights
+When you will use the CSS to design the background, colors etc, So, it will help you to display the colors on vs code.
+
+06- Path Intellisese 
+If you face problem to getting path of file, folder, so you need to use that extension, that used to display the current file path inside the vs code.
+
+07- JavaScript (Es6) Code Snippet 
+JavaScript extension is very helpful for us to suggest the JS code with the help of Extension. I also using the extension on my VS Code Editor.
+
+08- Quokka
+It's JS based extension that used to display the objects details inside the VS code, If any property doesn't exists inside the object, then It will display error, you can try it.
+
+09- Material Icon Theme
+Want to change the VS Folders and files colors, you need to use that extension. Once you installed and used that, then your projects files, folders etc colors have changed.
+
+10- Monokai Pro
+It's paid theme, but you can use it free of cost that used to display the colorful codes inside the VS Code editor.

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Selectors</title>
+    <style>
+      /* 
+        element or tag selector
+         */
+      h2 {
+        color: red;
+        font-size: 32px;
+      }
+      /* 
+      class selector
+      */
+      .header_blue {
+        color: blue;
+        font-size: 36px;
+      }
+      .headersize {
+        font-size: 36px;
+      }
+      /*
+   id selector
+
+      */
+      #sample {
+        letter-spacing: 1.2px;
+        word-spacing: 3px;
+      }
+      /*  combinators
+
+      */
+      h3,
+      p#borderpara {
+        border: 2px solid peru;
+      }
+      div p {
+        color: yellowgreen;
+      }
+      /* 
+      other combinators
+      +  ~   >
+       */
+    </style>
+  </head>
+  <body>
+    <h2>Sample</h2>
+    <h2 class="header_blue headersize">Sample other text</h2>
+
+    <h3>this is sample txt</h3>
+    <p class="header_blue headersize">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, fugit.
+    </p>
+    <p id="borderpara" class="borderpara1">
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est, iste?
+    </p>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <div>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, quasi!
+      </p>
+      <p>this is other para</p>
+    </div>
+  </body>
+</html>
